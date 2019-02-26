@@ -1,11 +1,12 @@
 body {
   background-color: teal;
   color: antiquewhite;
-  font-family: 'Assistant';
+  font-family: 'Sofia';
 }
 
 h1 {
   color: yellowgreen;
+  font-family: 'Amatic SC';
 }
 
 img {
