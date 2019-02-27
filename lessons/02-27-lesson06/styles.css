@@ -1,0 +1,47 @@
+body {
+  background-color: aquamarine;
+  padding: 20px;
+}
+
+div {
+  padding: 20px;
+}
+
+#division01 {
+  background-color: red;
+  /* padding: 20px; */
+  /* padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px; */
+}
+
+#division02 {
+  background-color: yellow;
+}
+
+#my-paragraph {
+  color: blue;
+}
+
+img {
+  width: 400px;
+  /* padding-left: 20px;
+  padding-bottom: 20px; */
+}
+
+#image01 {
+  width: 600px;
+}
+
+#fei {
+  width: 800px;
+}
+
+/* h1 {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+p {
+  padding-left: 20px;
+} */
