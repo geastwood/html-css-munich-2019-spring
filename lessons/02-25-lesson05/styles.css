@@ -3,9 +3,29 @@ body {
 }
 
 #division01 {
-  background-color: red;
+  background-color: blue;
 }
 
 #division02 {
-  background-color: yellow;
+  background-color: green;
+}
+
+img {
+  height: 150px;
+  border-style: dotted;
+  border-width: 5px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+
+#image2 {
+  width: 700px;
+}
+
+#my-paragraph{
+  color:blueviolet;
+}
+
+h1{
+  padding-left: 20px;
 }
