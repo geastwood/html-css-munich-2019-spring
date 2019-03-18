@@ -17,7 +17,12 @@
     width: 600px;
 }
 
-.box img {
+.square {
+    height: 1000px;
+    width: 1000px;
+}
+
+.angeloclass img {
     height: auto;
     width: 100%;
 }
@@ -44,9 +49,34 @@
 }
 
 .border {
-    border-color: gray;
+    border-color: rebeccapurple;
 }
 
 .title-red > .title {
     color: red;
+}
+
+.whatever {
+    padding: 20px;
+}
+
+#dogs {
+    border-width: 10px;
+    border-style: solid;
+    border-color: white;
+    border-color: rebeccapurple;
+
+    display: inline-block;
+
+    height: 400px;
+
+    margin-top: 20px;
+    margin-right: 20px;
+
+    padding: 20px;
+    position: relative;
+
+    overflow: hidden;
+
+    width: 600px;
 }
