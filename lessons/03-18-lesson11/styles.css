@@ -2,6 +2,7 @@ body {
     padding: 20px;
 }
 
+/* BOX MODEL */
 .box {
     width: 100px;
     height: 100px;
@@ -9,18 +10,32 @@ body {
     margin: 10px;
 }
 
-.post {
+/* .post {
     border: 1px solid black;
     padding: 30px;
     margin-bottom: 30px;
     text-align: center;
+} */
+
+.post {
+    border: 10px solid green;
+    padding-bottom: 20px;
 }
 
-.post__content {
+.content {
     margin-top: 20px;
-    padding: 15px 150px 0;
+    /* padding: 15px 150px 0; */
+    width: 100%;
 }
 
-.post__title {
+.title {
+    color: #cd853f;
     margin-bottom: 30px;
 }
+
+.post > .title {
+    color: #000;
+    text-transform: uppercase;
+}
+
+/* YOU NEVER OVERWRITE BOOTSTRAP CLASSES */
