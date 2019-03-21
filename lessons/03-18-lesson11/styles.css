@@ -19,7 +19,8 @@ body {
 
 .post {
     border: 10px solid green;
-    padding-bottom: 20px;
+    padding: 10px;
+    margin: 10px;
 }
 
 .content {
